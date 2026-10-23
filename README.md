@@ -44,7 +44,6 @@ Recursion: Building simple base cases to handle mathematical sequences and back-
 
 The exercises in this repository are categorized by their respective difficulty levels as structured in the 42 Exam System:
 
-.
 ├── Level 1/   # String traversal, basic ASCII conversions, character manipulation
 ├── Level 2/   # Double pointer loops, string searches, math conversions, array matching
 ├── Level 3/   # Linked list traversal, recursive functions, memory allocation (malloc)
